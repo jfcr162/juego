@@ -1,0 +1,15 @@
+*{
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+button{
+    cursor: pointer;
+    border-radius: 5px;
+}
+button:hover{
+    background-color: brown;
+}
+button:active{
+    background-color: azure;
+}
